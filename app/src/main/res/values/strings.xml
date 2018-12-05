@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomAlertDialogTutorial</string>
+    <string name="show_dialog">Show dialog</string>
+    <string name="login">Connexion</string>
+    <string name="description">Afin de pouvoir utiliser l\'application,\n il est nécessaire de se connecter une première fois.</string>
+    <string name="password">Password</string>
+    <string name="login_label">Login</string>
+    <string name="success_login_msg">Login successful</string>
+    <string name="error_login_msg">Please fill any empty fields</string>
+</resources>
